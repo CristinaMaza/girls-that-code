@@ -293,5 +293,6 @@ puts usernamescount[0]
 puts "The most frequently used username is #{usernamescount[0][0]} appearing #{usernamescount[0][1]} times" 
 
 puts "The most frequently used hashtag is #{hashtagcount[0][0]} appearing #{hashtagcount[0][1]} times" 
-
+ 
+#jdakldj 
 
